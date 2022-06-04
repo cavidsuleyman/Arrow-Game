@@ -9,7 +9,7 @@
 Hello, welcome to this lesson. Today I create with html, css and js file for Arrow-GAME. I use here html, css and js tags. 
 ## ## RULES OF USE
 
-> **STEP-1:** `https://github.com/cavidsuleyman/Ballon-Game.git` <br/>
+> **STEP-1:** `https://github.com/cavidsuleyman/Arrow-Game.git` <br/>
 > **STEP-2:**  enter the `Arrow-Game` folder that appears <br/>
 > **STEP-3:**  open the folder you are in in a text editor <br/>
 > **STEP-4:**  run the  all the`index.html` files in the main folder <br/>
@@ -31,7 +31,6 @@ This project was developed using the following technologies
 
 ## SAMPLE SCREEN APPEARANCE
 
-![There was a screenshot here](./screen_1.1.1.PNG)
 ![There was a screenshot here](./screen_1.1.2.PNG)
 
 
